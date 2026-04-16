@@ -58,3 +58,8 @@ artifacts/
 *.docx
 ~$*.pptx
 ~$*.docx
+
+# Local helper scripts/text to keep out of repo
+convert_pdf.py
+make_ppt.py
+template_text.txt
