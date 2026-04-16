@@ -49,3 +49,12 @@ temp/
 # Media outputs that can get large
 outputs/
 artifacts/
+
+# Office documents (never commit)
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+~$*.pptx
+~$*.docx
