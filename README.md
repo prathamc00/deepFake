@@ -19,7 +19,7 @@ For videos, the app samples every Nth frame, detects faces, classifies each face
 ## Project Structure
 
 - `app.py`: Gradio app entrypoint
-- `src/model_service.py`: HF model loading and inference
+- `src/model_service.py`: model loading and inference
 - `src/face_service.py`: MTCNN detection and face crops
 - `src/image_pipeline.py`: image processing flow
 - `src/video_pipeline.py`: sampled-frame video processing
