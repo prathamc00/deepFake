@@ -2,7 +2,6 @@
 
 This project provides deepfake detection for images and videos using:
 
-- Hugging Face model: `prithivMLmods/Deep-Fake-Detector-v2-Model`
 - Face detection: MTCNN (`facenet-pytorch`)
 - UI: Gradio
 
